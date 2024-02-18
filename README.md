@@ -1,5 +1,6 @@
 # Robust-Trajectory-Tracking-for-Quadrotor-UAVs-using-Sliding-Mode-Control
 
+Design of a sliding mode controller for altitude and attitude control of the Crazyflie 2.0 to enable the quadrotor to track desired trajectories and visit a set of desired waypoints.
 
 ### Tracked_Trajectory_Orthographic_View:
 ![Tracked_Trajectory_Orthographic_View](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/4e54a027-79f9-4730-a835-b6ccf039de7e)
