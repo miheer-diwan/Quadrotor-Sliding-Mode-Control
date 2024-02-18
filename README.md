@@ -1,8 +1,17 @@
 # Robust-Trajectory-Tracking-for-Quadrotor-UAVs-using-Sliding-Mode-Control
 
-## Orthographic View
+
+## Plots:
+![Tracked_Trajectory_Orthographic_View](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/4e54a027-79f9-4730-a835-b6ccf039de7e)
+![Tracked_Trajectory_Top_View](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/03eea55c-ed5a-4877-802a-6d07164ff2ca)
+
+![z_p0_p5](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/eedbf098-10af-4734-b9d5-94f7550bb065)
+![y_p0_p5](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/b680f7d5-b250-4d1a-b694-9f51da30ed9c)
+![x_p0_p5](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/05dbc69a-74ca-4fc1-aea7-2fba8d812b60)
+
+## Video Output Orthographic View:
 ![traj_ortho_view](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/3283e53d-63ab-4daa-8bd5-436cd9b25f68)
 
-## Top View
-![traj_top_view](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/35d9f0fb-bfd8-4b12-8133-6d143b800c36)
+## Video Output Top View:
 
+![traj_top_view (1)](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/e1079288-bd6a-4c91-bf0c-7c134df65e0d)
