@@ -2,6 +2,14 @@
 
 Design of a sliding mode controller for altitude and attitude control of the Crazyflie 2.0 to enable the quadrotor to track desired trajectories and visit a set of desired waypoints.
 
+## Tools Used:
+1. Python
+2. ROS
+3. Gazebo
+4. MATLAB
+
+## Outputs:
+
 ### Tracked_Trajectory_Orthographic_View:
 ![Tracked_Trajectory_Orthographic_View](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/4e54a027-79f9-4730-a835-b6ccf039de7e)
 
@@ -18,9 +26,9 @@ Design of a sliding mode controller for altitude and attitude control of the Cra
 ![z_p0_p5](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/eedbf098-10af-4734-b9d5-94f7550bb065)
 
 
-## Video Output | Orthographic View:
+## Video - Orthographic View:
 ![traj_ortho_view](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/3283e53d-63ab-4daa-8bd5-436cd9b25f68)
 
-## Video Output | Top View:
+## Video - Top View:
 
 ![traj_top_view (1)](https://github.com/miheer-diwan/quadrotor_sliding_mode_control/assets/79761017/e1079288-bd6a-4c91-bf0c-7c134df65e0d)
